@@ -48,3 +48,10 @@ Você está numa empresa abandonada, e seu objetivo é explora-lá a fim de conh
 `1` `2` `3` `4` `5` Opções do inventário.
 
 `EW` `EA` `ES` `ED` Teclas para dropar item.
+
+# Créditos
+
+1. Joenyr Couto (developer of game at all code, and too story)
+2. Raphael Mota (story contributor)
+3. Paulo Tanini (story contributor, and map)
+4. Willyans Chen (story contributor, and details map)
