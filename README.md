@@ -4,28 +4,28 @@ Game on java.
 
 # [premissa]
 
-Voce está numa empresa abandonada, e seu objetivo é explora-lá a fim de conhecer a sua historia por ali deixada. Nela há objetos para interagir, para isso é nescessario que você va em sua direção, estes estão bem destacados pelo mapa. E tenha cuidado com a escuridão.
+Você está numa empresa abandonada, e seu objetivo é explora-lá a fim de conhecer a sua história por ali deixada. Nela há objetos para interagir, para isso é nescessário que você vá em sua direção, estes estão bem destacados pelo mapa. E tenha cuidado com a escuridão.
 
 # [níveis]
 
-[Nível fácil]: estes são os que devem ser primeiro resolvidos, simples e sem associações.
+[Nível fácil]: Estes são os que devem ser primeiro resolvidos, simples e sem associações.
 
 [Nível médio]: Meio termo entre os outros níveis, não é trabalhoso, e nem tem dados específicos.
 
-[Nível extremo]: relacionados com dados da história do game, ou trabalhosos.
+[Nível extremo]: Relacionados com dados da história do game, ou trabalhosos.
 
 # [opções de input]
 
-[M]: voltar ao menu.
+[M]: Voltar ao menu.
 
-[NIVEL]: este quando utilizado em enigmas, mostrará o nível do mesmo.
+[NIVEL]: Este quando utilizado em enigmas, mostrará o nível do mesmo.
 
-[I]: Abrir/fechar inventario.
+[I]: Abrir/fechar inventário.
 
-[U]: usar item.
+[U]: Usar item.
 
 [W, A, S, D]: Teclas padrão de movimentação.
 
-[1, 2, 3, 4, 5]: opções do inventário.
+[1, 2, 3, 4, 5]: Opções do inventário.
 
-[EW, EA, ES, ED]: teclas para dropar item.
+[EW, EA, ES, ED]: Teclas para dropar item.
