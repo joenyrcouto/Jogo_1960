@@ -4,22 +4,22 @@ Game on java.
 
 # Como jogar
 
-Baixe o repositório e compile o jogo:
+**Baixe o repositório e compile o jogo**
 ```
 git clone https://github.com/joenyrcouto/Jogo-1960.git
 cd Jogo-1960
 javac Main.java
 ```
-Ou baixe a versão mais recente do repositório:
+**Ou baixe a versão mais recente do repositório**
 ```
 wget https://github.com/joenyrcouto/Jogo-1960/releases/download/v1.0.0/Jogo-1960.zip
 cd Jogo-1960
 ```
-Execute o jogo:
+**Execute o jogo**
 ```
 javac Main
 ```
-Divirta-se
+**Divirta-se**
 
 # [premissa]
 
