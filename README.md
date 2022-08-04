@@ -17,9 +17,15 @@ Voce está numa empresa abandonada, e seu objetivo é explora-lá a fim de conhe
 # [opções de input]
 
 [M]: voltar ao menu.
+
 [NIVEL]: este quando utilizado em enigmas, mostrará o nível do mesmo.
+
 [I]: Abrir/fechar inventario.
+
 [U]: usar item.
+
 [W, A, S, D]: Teclas padrão de moyvimentacao.
+
 [1, 2, 3, 4, 5]: opções do inventário.
+
 [EW, EA, ES, ED]: teclas para dropar item.
