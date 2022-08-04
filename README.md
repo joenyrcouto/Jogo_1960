@@ -1,6 +1,6 @@
 # Jogo - 1960
-[![Version v1.0.0]](https://github.com/joenyrcouto/Jogo-1960/releases/tag/v1.0.0)
 Game on java.
+[Version v1.0.0](https://github.com/joenyrcouto/Jogo-1960/releases/tag/v1.0.0)
 
 # Como jogar
 
