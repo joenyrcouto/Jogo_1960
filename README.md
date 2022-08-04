@@ -24,7 +24,7 @@ Voce está numa empresa abandonada, e seu objetivo é explora-lá a fim de conhe
 
 [U]: usar item.
 
-[W, A, S, D]: Teclas padrão de moyvimentacao.
+[W, A, S, D]: Teclas padrão de movimentação.
 
 [1, 2, 3, 4, 5]: opções do inventário.
 
