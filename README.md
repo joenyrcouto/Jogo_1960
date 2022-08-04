@@ -1,4 +1,4 @@
-# 1960 - jogo
+# Jogo - 1960
 
 Game on java.
 
